@@ -7,7 +7,7 @@ The goal in all the challenges is to recover a hidden string(a flag). Have fun w
 You can have a look at some writeups for old CTFs here; in case you're wondering how to write a "writeup", - it needn't be formal but must have your thought process jotted down.
 
 ### Format of the flag:
-IITB{<flag>} ; replace <flag> with the correct string flag.
+IITB{flag} ; replace "flag" with the correct string flag.
 
 ### Task 1:
 You managed to hack into someone's good girl and steal a pdf file containing the flag. But turns out the pdf is protected with a password. Find a way to crack the password. 😳
