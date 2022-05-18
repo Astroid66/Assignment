@@ -1,7 +1,7 @@
 This is an assignment for the convener/infra convener application in Cyber Security Club @ IITB. This repository is divided into two subdivisions: assignment for convener and assignment for infra convener.
 
 # Convener assignment:
-It consists of 3 challenges and one non-technical task. Right now, you will be able to see only two challenges, and the other two will be uploaded in a couple of hours. You don't need to complete all of them, just do as much as you can, but remember, you need to make detailed writeups on the challenges even if you could not complete them. We don't seek answers, we seek methods full of creativity and a fearless desire to learn more. (no write-up for the non-technical task ;))
+It consists of 2 challenges and 1 non-technical task. You don't need to complete all of them, just do as much as you can, but remember, you need to make detailed writeups on the challenges even if you could not complete them. We don't seek answers, we seek methods full of creativity and a fearless desire to learn more. (no write-up for the non-technical task ;))
 
 The goal in all the challenges is to recover a hidden string(a flag). Have fun with the challenges! And in case you're stuck somewhere, pls ping me on whatsapp-9351323016.
 You can have a look at some writeups for old CTFs here; in case you're wondering how to write a "writeup", - it needn't be formal but must have your thought process jotted down.
