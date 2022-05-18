@@ -6,9 +6,16 @@ It consists of 3 challenges and one non-technical task. Right now, you will be a
 The goal in all the challenges is to recover a hidden string(a flag). Have fun with the challenges! And in case you're stuck somewhere, pls ping me on whatsapp-9351323016.
 You can have a look at some writeups for old CTFs here; in case you're wondering how to write a "writeup", - it needn't be formal but must have your thought process jotted down.
 
+### Format of the flag:
+IITB{<flag>} ; replace <flag> with the correct string flag.
+
 ### Task 1:
 You managed to hack into someone's good girl and steal a pdf file containing the flag. But turns out the pdf is protected with a password. Find a way to crack the password. 😳
 ### Task 2:
+Fieser püppchen is plotting to hide the flag away from tylluan in a desperate attempt to stop him from becoming CSeC convener...
+To that end püppchen has decided to double encrypt the flag. However, Iolair, resourceful as always, was able to intercept the traffic between püppchen's computer and the hardware on which this encryption was occuring when püppchen tried to encrypt it for a second time.
+püppchen, realizing fuglanna were closing in, decided to erase the keys and the flag that was encrypted... Alas, they could only get back the remaining code and the 
+trace Iolair captured. Tylluan suspected that they could retreive the flag in cleartext. Can you help the fuglanna ?
 ### Task 3:
 ### Non-Technical task:
 Imagine you are a convener of CSec Club, IIT Bombay (soon you will be ;)), and there is an event-"Hard Hack", which is planned to be conducted in feburary'23. The manager of the club tells you to create a poster for the event giving all the relevant information to the students. Design a poster for the event "Hard Hack", which should consist of all the relevant information like time, venue etc. We have also attached the logo of our club to be mandatorily present on the poster.
