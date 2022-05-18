@@ -1,4 +1,4 @@
-This is an assignment for the convener/infra convener application in Cyber Security Club @ IITB. This repository is divided into two subdivisions: assignment for convener and assignment for infra convener.
+This is an assignment for the convener/infra convener application in Cyber Security Club @ IITB. This repository is divided into two subdivisions: assignment for convener and assignment for infra convener. IMP NOTE: Google should be your companion in this whole assignment i.e. feel free to google any stuff rather it is recommeneded that you should google your doubts. Also hints will be provided if required/asked by the applicants. You all should contact me in any case of query.
 
 # Convener assignment:
 It consists of 2 challenges and 1 non-technical task. You don't need to complete all of them, just do as much as you can, but remember, you need to make detailed writeups on the challenges even if you could not complete them. We don't seek answers, we seek methods full of creativity and a fearless desire to learn more. (no write-up for the non-technical task ;))
